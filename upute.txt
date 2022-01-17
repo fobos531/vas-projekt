@@ -1,0 +1,17 @@
+Upute: 
+
+Instalacija preduvjeta:
+
+sudo apt-get update && sudo apt-get install python3.6
+sudo apt-get install python3-pip
+pip install spade
+pip install yfinance
+pip install pyowm
+
+
+Pokrenuti oboje:
+$ python3 korisnikInteractionAgent.py
+$ python3 vanjskiServisAgent.py
+
+
+Vidi poglavlje 2.4. u LaTeX radu. 
